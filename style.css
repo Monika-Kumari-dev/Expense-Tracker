@@ -1,0 +1,4 @@
+body { min-height: 100vh; }
+.card { border-radius: 1rem; }
+.btn { border-radius: .5rem; }
+.table td, .table th { white-space: nowrap; }
